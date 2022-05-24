@@ -1,0 +1,35 @@
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 30px;
+}
+body {
+    background-size: cover;
+    background-position: center;
+    background: linear-gradient(orange,lightblue,purple);
+}
+#href {
+    background-color:blueviolet;
+    color:white;
+    font-size:30;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 25px;    
+    padding: 10px;
+}
+#id {
+    float:right;
+    background-color: darkgreen;
+    color:white;
+    padding:5px;
+}
+canvas {
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px purple;
+    margin-top: 60px;
+}
